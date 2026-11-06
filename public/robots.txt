@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://fukuoka-votematch-2026.vercel.app/sitemap.xml
+Sitemap: https://fukuoka-votematch-2026-uzu83s-projects.vercel.app/sitemap.xml

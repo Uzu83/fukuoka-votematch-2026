@@ -9,7 +9,7 @@ const siteName = "ふくおか・みらいマッチ";
 const description = "20の質問から、考えの近い候補者を探す無党派のボートマッチ。回答は送信・保存せず、すべての立場を出典つきで公開します。";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://fukuoka-votematch-2026.vercel.app"),
+  metadataBase: new URL("https://fukuoka-votematch-2026-uzu83s-projects.vercel.app"),
   title: { default: `${siteName}｜2026年福岡市長選挙`, template: `%s｜${siteName}` },
   description,
   applicationName: siteName,
