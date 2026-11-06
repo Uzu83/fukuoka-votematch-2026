@@ -121,7 +121,7 @@ match_percentage = sum(agreement * weight) / sum(weight) * 100
 npx vercel --prod
 ```
 
-フレームワーク`Next.js`、ビルド`npm run build`、出力`out`でデプロイできます。GitHub連携する場合も同じビルドコマンドです。
+フレームワーク`Next.js`、ビルド`npm run build`でデプロイできます。`output: "export"`の出力先はNext.jsプリセットに任せ、Vercelプロジェクト側・`vercel.json`側の`outputDirectory`指定は外してください。手動で静的ファイルをアップロードする場合の出力先は`out`です。GitHub連携時も同じビルドコマンドです。
 
 ## 貢献・誤りの報告
 
