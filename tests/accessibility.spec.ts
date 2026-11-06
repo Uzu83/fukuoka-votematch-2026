@@ -58,3 +58,14 @@ test("keyboard can start and navigate the first answer", async ({ page }) => {
   await page.keyboard.press("Enter");
   await expect(page.getByText("質問 2 /", { exact: false })).toBeVisible();
 });
+
+test("all 13 candidates show three sourced pledges in filing order", async ({ page }) => {
+  await page.goto("/candidates");
+  const cards = page.locator("main > div > ol > li");
+  await expect(cards).toHaveCount(13);
+  await expect(page.getByRole("heading", { name: "推し出している公約、3つ", exact: true })).toHaveCount(13);
+  await expect(page.locator("section[aria-labelledby^=pledges-] > ol > li")).toHaveCount(39);
+  await expect(page.locator("section[aria-labelledby^=pledges-] > ol > li > a")).toHaveCount(39);
+  await expect(page.getByText("教育経済エンジンで手取り月100万円を目指す", { exact: true })).toBeVisible();
+  await expect(page.getByText("市民税を5％減税", { exact: true })).toBeVisible();
+});

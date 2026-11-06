@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { electionData } from "@/lib/generated-data";
+import pledges from "@/data/pledges.json";
 import { stanceLabel } from "@/lib/scoring";
 import { ExternalLink } from "../components/ExternalLink";
 
@@ -34,6 +35,24 @@ export default function CandidatesPage() {
               <div><dt className="inline font-bold">年齢：</dt><dd className="inline">{candidate.age}歳</dd></div>
               <div><dt className="inline font-bold">肩書等：</dt><dd className="inline">{candidate.occupation}</dd></div>
             </dl>
+
+            <section aria-labelledby={`pledges-${candidate.id}`} className="mt-6">
+              <div className="flex flex-wrap items-end justify-between gap-2">
+                <h3 id={`pledges-${candidate.id}`} className="text-xl font-black">推し出している公約、3つ</h3>
+                <span className="text-xs text-[#4c6067]">公式資料等の強調・掲載順をもとに選定</span>
+              </div>
+              <ol className="mt-3 grid gap-3 md:grid-cols-3">
+                {(pledges.find((entry) => entry.candidateId === candidate.id)?.pledges ?? []).map((pledge, pledgeIndex) => (
+                  <li key={`${candidate.id}-${pledgeIndex}`} className="flex h-full flex-col rounded-xl border border-[#dce5e2] bg-[#f7faf8] p-5">
+                    <span className="mb-2 text-2xl font-black text-[#005f61]" aria-hidden="true">{String(pledgeIndex + 1).padStart(2, "0")}</span>
+                    <p className="mb-4 flex-1 text-lg font-bold leading-relaxed">{pledge.text}</p>
+                    <ExternalLink href={pledge.sourceUrl} className="mt-auto w-fit text-sm font-bold">出典を確認<span className="sr-only">：{pledge.text}</span></ExternalLink>
+                  </li>
+                ))}
+              </ol>
+              <p className="mt-2 text-xs text-[#4c6067]">20問の診断とは別の参考情報で、マッチ度には影響しません。詳細は各出典をご確認ください。</p>
+            </section>
+
             <details className="mt-5 rounded-xl bg-[#f2f7f4] p-4">
               <summary className="min-h-7 cursor-pointer font-bold">公開情報から確認できる立場と出典</summary>
               <div className="mt-4 space-y-5">
