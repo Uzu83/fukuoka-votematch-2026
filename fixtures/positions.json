@@ -1,0 +1,1822 @@
+[
+  {
+    "candidateId": "sample-candidate-01",
+    "questionId": "sample-01",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-02",
+    "questionId": "sample-01",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-03",
+    "questionId": "sample-01",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-04",
+    "questionId": "sample-01",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-05",
+    "questionId": "sample-01",
+    "stance": -2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-06",
+    "questionId": "sample-01",
+    "stance": null,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-07",
+    "questionId": "sample-01",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-08",
+    "questionId": "sample-01",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-09",
+    "questionId": "sample-01",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-10",
+    "questionId": "sample-01",
+    "stance": -2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-11",
+    "questionId": "sample-01",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-12",
+    "questionId": "sample-01",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-13",
+    "questionId": "sample-01",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-01",
+    "questionId": "sample-02",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-02",
+    "questionId": "sample-02",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-03",
+    "questionId": "sample-02",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-04",
+    "questionId": "sample-02",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-05",
+    "questionId": "sample-02",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-06",
+    "questionId": "sample-02",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-07",
+    "questionId": "sample-02",
+    "stance": -2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-08",
+    "questionId": "sample-02",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-09",
+    "questionId": "sample-02",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-10",
+    "questionId": "sample-02",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-11",
+    "questionId": "sample-02",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-12",
+    "questionId": "sample-02",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-13",
+    "questionId": "sample-02",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-01",
+    "questionId": "sample-03",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-02",
+    "questionId": "sample-03",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-03",
+    "questionId": "sample-03",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-04",
+    "questionId": "sample-03",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-05",
+    "questionId": "sample-03",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-06",
+    "questionId": "sample-03",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-07",
+    "questionId": "sample-03",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-08",
+    "questionId": "sample-03",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-09",
+    "questionId": "sample-03",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-10",
+    "questionId": "sample-03",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-11",
+    "questionId": "sample-03",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-12",
+    "questionId": "sample-03",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-13",
+    "questionId": "sample-03",
+    "stance": -2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-01",
+    "questionId": "sample-04",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-02",
+    "questionId": "sample-04",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-03",
+    "questionId": "sample-04",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-04",
+    "questionId": "sample-04",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-05",
+    "questionId": "sample-04",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-06",
+    "questionId": "sample-04",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-07",
+    "questionId": "sample-04",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-08",
+    "questionId": "sample-04",
+    "stance": -2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-09",
+    "questionId": "sample-04",
+    "stance": -2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-10",
+    "questionId": "sample-04",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-11",
+    "questionId": "sample-04",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-12",
+    "questionId": "sample-04",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-13",
+    "questionId": "sample-04",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-01",
+    "questionId": "sample-05",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-02",
+    "questionId": "sample-05",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-03",
+    "questionId": "sample-05",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-04",
+    "questionId": "sample-05",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-05",
+    "questionId": "sample-05",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-06",
+    "questionId": "sample-05",
+    "stance": null,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-07",
+    "questionId": "sample-05",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-08",
+    "questionId": "sample-05",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-09",
+    "questionId": "sample-05",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-10",
+    "questionId": "sample-05",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-11",
+    "questionId": "sample-05",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-12",
+    "questionId": "sample-05",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-13",
+    "questionId": "sample-05",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-01",
+    "questionId": "sample-06",
+    "stance": -2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-02",
+    "questionId": "sample-06",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-03",
+    "questionId": "sample-06",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-04",
+    "questionId": "sample-06",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-05",
+    "questionId": "sample-06",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-06",
+    "questionId": "sample-06",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-07",
+    "questionId": "sample-06",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-08",
+    "questionId": "sample-06",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-09",
+    "questionId": "sample-06",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-10",
+    "questionId": "sample-06",
+    "stance": -2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-11",
+    "questionId": "sample-06",
+    "stance": -2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-12",
+    "questionId": "sample-06",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-13",
+    "questionId": "sample-06",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-01",
+    "questionId": "sample-07",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-02",
+    "questionId": "sample-07",
+    "stance": -2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-03",
+    "questionId": "sample-07",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-04",
+    "questionId": "sample-07",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-05",
+    "questionId": "sample-07",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-06",
+    "questionId": "sample-07",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-07",
+    "questionId": "sample-07",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-08",
+    "questionId": "sample-07",
+    "stance": -2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-09",
+    "questionId": "sample-07",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-10",
+    "questionId": "sample-07",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-11",
+    "questionId": "sample-07",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-12",
+    "questionId": "sample-07",
+    "stance": -2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-13",
+    "questionId": "sample-07",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-01",
+    "questionId": "sample-08",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-02",
+    "questionId": "sample-08",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-03",
+    "questionId": "sample-08",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-04",
+    "questionId": "sample-08",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-05",
+    "questionId": "sample-08",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-06",
+    "questionId": "sample-08",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-07",
+    "questionId": "sample-08",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-08",
+    "questionId": "sample-08",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-09",
+    "questionId": "sample-08",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-10",
+    "questionId": "sample-08",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-11",
+    "questionId": "sample-08",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-12",
+    "questionId": "sample-08",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-13",
+    "questionId": "sample-08",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-01",
+    "questionId": "sample-09",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-02",
+    "questionId": "sample-09",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-03",
+    "questionId": "sample-09",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-04",
+    "questionId": "sample-09",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-05",
+    "questionId": "sample-09",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-06",
+    "questionId": "sample-09",
+    "stance": null,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-07",
+    "questionId": "sample-09",
+    "stance": -2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-08",
+    "questionId": "sample-09",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-09",
+    "questionId": "sample-09",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-10",
+    "questionId": "sample-09",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-11",
+    "questionId": "sample-09",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-12",
+    "questionId": "sample-09",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-13",
+    "questionId": "sample-09",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-01",
+    "questionId": "sample-10",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-02",
+    "questionId": "sample-10",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-03",
+    "questionId": "sample-10",
+    "stance": -2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-04",
+    "questionId": "sample-10",
+    "stance": -2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-05",
+    "questionId": "sample-10",
+    "stance": -2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-06",
+    "questionId": "sample-10",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-07",
+    "questionId": "sample-10",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-08",
+    "questionId": "sample-10",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-09",
+    "questionId": "sample-10",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-10",
+    "questionId": "sample-10",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-11",
+    "questionId": "sample-10",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-12",
+    "questionId": "sample-10",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-13",
+    "questionId": "sample-10",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-01",
+    "questionId": "sample-11",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-02",
+    "questionId": "sample-11",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-03",
+    "questionId": "sample-11",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-04",
+    "questionId": "sample-11",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-05",
+    "questionId": "sample-11",
+    "stance": -2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-06",
+    "questionId": "sample-11",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-07",
+    "questionId": "sample-11",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-08",
+    "questionId": "sample-11",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-09",
+    "questionId": "sample-11",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-10",
+    "questionId": "sample-11",
+    "stance": -2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-11",
+    "questionId": "sample-11",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-12",
+    "questionId": "sample-11",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-13",
+    "questionId": "sample-11",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-01",
+    "questionId": "sample-12",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-02",
+    "questionId": "sample-12",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-03",
+    "questionId": "sample-12",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-04",
+    "questionId": "sample-12",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-05",
+    "questionId": "sample-12",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-06",
+    "questionId": "sample-12",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-07",
+    "questionId": "sample-12",
+    "stance": -2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-08",
+    "questionId": "sample-12",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-09",
+    "questionId": "sample-12",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-10",
+    "questionId": "sample-12",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-11",
+    "questionId": "sample-12",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-12",
+    "questionId": "sample-12",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-13",
+    "questionId": "sample-12",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-01",
+    "questionId": "sample-13",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-02",
+    "questionId": "sample-13",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-03",
+    "questionId": "sample-13",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-04",
+    "questionId": "sample-13",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-05",
+    "questionId": "sample-13",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-06",
+    "questionId": "sample-13",
+    "stance": null,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-07",
+    "questionId": "sample-13",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-08",
+    "questionId": "sample-13",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-09",
+    "questionId": "sample-13",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-10",
+    "questionId": "sample-13",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-11",
+    "questionId": "sample-13",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-12",
+    "questionId": "sample-13",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-13",
+    "questionId": "sample-13",
+    "stance": -2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-01",
+    "questionId": "sample-14",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-02",
+    "questionId": "sample-14",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-03",
+    "questionId": "sample-14",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-04",
+    "questionId": "sample-14",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-05",
+    "questionId": "sample-14",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-06",
+    "questionId": "sample-14",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-07",
+    "questionId": "sample-14",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-08",
+    "questionId": "sample-14",
+    "stance": -2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-09",
+    "questionId": "sample-14",
+    "stance": -2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-10",
+    "questionId": "sample-14",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-11",
+    "questionId": "sample-14",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-12",
+    "questionId": "sample-14",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-13",
+    "questionId": "sample-14",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-01",
+    "questionId": "sample-15",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-02",
+    "questionId": "sample-15",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-03",
+    "questionId": "sample-15",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-04",
+    "questionId": "sample-15",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-05",
+    "questionId": "sample-15",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-06",
+    "questionId": "sample-15",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-07",
+    "questionId": "sample-15",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-08",
+    "questionId": "sample-15",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-09",
+    "questionId": "sample-15",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-10",
+    "questionId": "sample-15",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-11",
+    "questionId": "sample-15",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-12",
+    "questionId": "sample-15",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-13",
+    "questionId": "sample-15",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-01",
+    "questionId": "sample-16",
+    "stance": -2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-02",
+    "questionId": "sample-16",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-03",
+    "questionId": "sample-16",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-04",
+    "questionId": "sample-16",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-05",
+    "questionId": "sample-16",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-06",
+    "questionId": "sample-16",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-07",
+    "questionId": "sample-16",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-08",
+    "questionId": "sample-16",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-09",
+    "questionId": "sample-16",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-10",
+    "questionId": "sample-16",
+    "stance": -2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-11",
+    "questionId": "sample-16",
+    "stance": -2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-12",
+    "questionId": "sample-16",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-13",
+    "questionId": "sample-16",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-01",
+    "questionId": "sample-17",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-02",
+    "questionId": "sample-17",
+    "stance": -2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-03",
+    "questionId": "sample-17",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-04",
+    "questionId": "sample-17",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-05",
+    "questionId": "sample-17",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-06",
+    "questionId": "sample-17",
+    "stance": null,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-07",
+    "questionId": "sample-17",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-08",
+    "questionId": "sample-17",
+    "stance": -2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-09",
+    "questionId": "sample-17",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-10",
+    "questionId": "sample-17",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-11",
+    "questionId": "sample-17",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-12",
+    "questionId": "sample-17",
+    "stance": -2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-13",
+    "questionId": "sample-17",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-01",
+    "questionId": "sample-18",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-02",
+    "questionId": "sample-18",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-03",
+    "questionId": "sample-18",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-04",
+    "questionId": "sample-18",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-05",
+    "questionId": "sample-18",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-06",
+    "questionId": "sample-18",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-07",
+    "questionId": "sample-18",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-08",
+    "questionId": "sample-18",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-09",
+    "questionId": "sample-18",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-10",
+    "questionId": "sample-18",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-11",
+    "questionId": "sample-18",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-12",
+    "questionId": "sample-18",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-13",
+    "questionId": "sample-18",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-01",
+    "questionId": "sample-19",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-02",
+    "questionId": "sample-19",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-03",
+    "questionId": "sample-19",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-04",
+    "questionId": "sample-19",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-05",
+    "questionId": "sample-19",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-06",
+    "questionId": "sample-19",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-07",
+    "questionId": "sample-19",
+    "stance": -2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-08",
+    "questionId": "sample-19",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-09",
+    "questionId": "sample-19",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-10",
+    "questionId": "sample-19",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-11",
+    "questionId": "sample-19",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-12",
+    "questionId": "sample-19",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-13",
+    "questionId": "sample-19",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-01",
+    "questionId": "sample-20",
+    "stance": 2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-02",
+    "questionId": "sample-20",
+    "stance": -1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-03",
+    "questionId": "sample-20",
+    "stance": -2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-04",
+    "questionId": "sample-20",
+    "stance": -2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-05",
+    "questionId": "sample-20",
+    "stance": -2,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-06",
+    "questionId": "sample-20",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-07",
+    "questionId": "sample-20",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-08",
+    "questionId": "sample-20",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-09",
+    "questionId": "sample-20",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-10",
+    "questionId": "sample-20",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-11",
+    "questionId": "sample-20",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-12",
+    "questionId": "sample-20",
+    "stance": 1,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  },
+  {
+    "candidateId": "sample-candidate-13",
+    "questionId": "sample-20",
+    "stance": 0,
+    "sourceUrl": "https://example.com/",
+    "evidence": "これはアプリの操作確認のための架空の根拠文です。公開データではありません。"
+  }
+]

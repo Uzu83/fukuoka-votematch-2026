@@ -1,0 +1,1822 @@
+[
+  {
+    "candidateId": "aramaki",
+    "questionId": "q01",
+    "stance": 1,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsb9dc22e521b6436186fabd2c2acc87a1",
+    "evidence": "「スタートアップ支援の成果は評価し、継承」"
+  },
+  {
+    "candidateId": "aramaki",
+    "questionId": "q02",
+    "stance": -2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs2db9bc4211ea445aacdeb29efc5b0aaa",
+    "evidence": "FBS回答：「ほとんど還元されていない」"
+  },
+  {
+    "candidateId": "aramaki",
+    "questionId": "q03",
+    "stance": 1,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsb9dc22e521b6436186fabd2c2acc87a1?p=4",
+    "evidence": "都市の外側の発展と挑戦に敬意を示し継承"
+  },
+  {
+    "candidateId": "aramaki",
+    "questionId": "q04",
+    "stance": 0,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsc1c64b65fd724513a756496cde200d58",
+    "evidence": "選択：都心部と周辺地域のバランスを重視"
+  },
+  {
+    "candidateId": "aramaki",
+    "questionId": "q05",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsc1c64b65fd724513a756496cde200d58?p=4",
+    "evidence": "「地下鉄の空港国際線延伸」を掲げる"
+  },
+  {
+    "candidateId": "aramaki",
+    "questionId": "q06",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "aramaki",
+    "questionId": "q07",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "aramaki",
+    "questionId": "q08",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs2db9bc4211ea445aacdeb29efc5b0aaa?p=4",
+    "evidence": "公営住宅の拡充を提案"
+  },
+  {
+    "candidateId": "aramaki",
+    "questionId": "q09",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs79ea052d371545998eb701d50bc696e8?p=4",
+    "evidence": "所得向上策に法人市民税の減税を組み込む"
+  },
+  {
+    "candidateId": "aramaki",
+    "questionId": "q10",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs295aa21c9d5144069f3bbe59850519a8",
+    "evidence": "自主防災組織・避難計画・訓練と避難所環境を充実"
+  },
+  {
+    "candidateId": "aramaki",
+    "questionId": "q11",
+    "stance": 1,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs79ea052d371545998eb701d50bc696e8?p=4",
+    "evidence": "教育・創業融資で個人起業と新産業を支援"
+  },
+  {
+    "candidateId": "aramaki",
+    "questionId": "q12",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs5e6d6f0345a444cea77edca2395ac774?p=4",
+    "evidence": "「第1子からの保育料無償化を実施」"
+  },
+  {
+    "candidateId": "aramaki",
+    "questionId": "q13",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs5e6d6f0345a444cea77edca2395ac774?p=4",
+    "evidence": "「過大規模校の分離新設と教員の大幅増員」"
+  },
+  {
+    "candidateId": "aramaki",
+    "questionId": "q14",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs5e6d6f0345a444cea77edca2395ac774?p=4",
+    "evidence": "不登校の学習機会保障とフリースクール支援"
+  },
+  {
+    "candidateId": "aramaki",
+    "questionId": "q15",
+    "stance": 2,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=2",
+    "evidence": "選択的夫婦別姓に「賛成」"
+  },
+  {
+    "candidateId": "aramaki",
+    "questionId": "q16",
+    "stance": 2,
+    "sourceUrl": "https://www.kokorotou.jp/vision/08-coexistence/",
+    "evidence": "外国人政策：日本語教育と生活ルール共有の環境を整備"
+  },
+  {
+    "candidateId": "aramaki",
+    "questionId": "q17",
+    "stance": 2,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=2",
+    "evidence": "同性婚に「賛成」"
+  },
+  {
+    "candidateId": "aramaki",
+    "questionId": "q18",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "aramaki",
+    "questionId": "q19",
+    "stance": 2,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=2",
+    "evidence": "「首都機能を補完し、世界の教育首都として発展」"
+  },
+  {
+    "candidateId": "aramaki",
+    "questionId": "q20",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsb9dc22e521b6436186fabd2c2acc87a1?p=4",
+    "evidence": "スタートアップ支援の成果を評価・継承"
+  },
+  {
+    "candidateId": "mori",
+    "questionId": "q01",
+    "stance": 1,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsb9dc22e521b6436186fabd2c2acc87a1",
+    "evidence": "「人口20万人増、税収過去最高などの成果は継承」"
+  },
+  {
+    "candidateId": "mori",
+    "questionId": "q02",
+    "stance": -1,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs2db9bc4211ea445aacdeb29efc5b0aaa",
+    "evidence": "FBS回答：「あまり還元されていない」"
+  },
+  {
+    "candidateId": "mori",
+    "questionId": "q03",
+    "stance": 1,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsb9dc22e521b6436186fabd2c2acc87a1?p=4",
+    "evidence": "人口増・税収増の果実を引き継ぐ"
+  },
+  {
+    "candidateId": "mori",
+    "questionId": "q04",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsc1c64b65fd724513a756496cde200d58",
+    "evidence": "市民の足の利便化として地下鉄環状化等を提案"
+  },
+  {
+    "candidateId": "mori",
+    "questionId": "q05",
+    "stance": 0,
+    "sourceUrl": "https://moriken3.com/",
+    "evidence": "「国際線延伸は需要と費用対効果を精査」"
+  },
+  {
+    "candidateId": "mori",
+    "questionId": "q06",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "mori",
+    "questionId": "q07",
+    "stance": 1,
+    "sourceUrl": "https://www.tvq.co.jp/news/news.html?did=2026110400000005",
+    "evidence": "「家賃補助もあるでしょう。ただ…大胆に減税」"
+  },
+  {
+    "candidateId": "mori",
+    "questionId": "q08",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "mori",
+    "questionId": "q09",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs2db9bc4211ea445aacdeb29efc5b0aaa?p=4",
+    "evidence": "支出見直しの財源で「市民税減税へ」"
+  },
+  {
+    "candidateId": "mori",
+    "questionId": "q10",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs295aa21c9d5144069f3bbe59850519a8",
+    "evidence": "雨水対策、避難所耐震化、下水道・橋の更新"
+  },
+  {
+    "candidateId": "mori",
+    "questionId": "q11",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs79ea052d371545998eb701d50bc696e8?p=4",
+    "evidence": "「中小企業のDX化」等を支援"
+  },
+  {
+    "candidateId": "mori",
+    "questionId": "q12",
+    "stance": -2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs5e6d6f0345a444cea77edca2395ac774?p=4",
+    "evidence": "「無償化・現金給付ではなく減税で手取りを増やす」"
+  },
+  {
+    "candidateId": "mori",
+    "questionId": "q13",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "mori",
+    "questionId": "q14",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "mori",
+    "questionId": "q15",
+    "stance": -2,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=3",
+    "evidence": "選択的夫婦別姓に「反対」"
+  },
+  {
+    "candidateId": "mori",
+    "questionId": "q16",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "mori",
+    "questionId": "q17",
+    "stance": -2,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=3",
+    "evidence": "同性婚に「反対」"
+  },
+  {
+    "candidateId": "mori",
+    "questionId": "q18",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs79ea052d371545998eb701d50bc696e8?p=4",
+    "evidence": "「全事業の支出を見える化」"
+  },
+  {
+    "candidateId": "mori",
+    "questionId": "q19",
+    "stance": 0,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=3",
+    "evidence": "「必要性の検証が先。必要なら福岡が最適」"
+  },
+  {
+    "candidateId": "mori",
+    "questionId": "q20",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "nishiwaki",
+    "questionId": "q01",
+    "stance": 1,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsb9dc22e521b6436186fabd2c2acc87a1",
+    "evidence": "再開発による建物の耐震化を「評価し、引き継ぐ」"
+  },
+  {
+    "candidateId": "nishiwaki",
+    "questionId": "q02",
+    "stance": -1,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs2db9bc4211ea445aacdeb29efc5b0aaa",
+    "evidence": "FBS回答：「あまり還元されていない」"
+  },
+  {
+    "candidateId": "nishiwaki",
+    "questionId": "q03",
+    "stance": 1,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsb9dc22e521b6436186fabd2c2acc87a1?p=4",
+    "evidence": "「再開発による建物の耐震化は評価し、引き継ぐ」"
+  },
+  {
+    "candidateId": "nishiwaki",
+    "questionId": "q04",
+    "stance": 0,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsc1c64b65fd724513a756496cde200d58",
+    "evidence": "選択：現行施策を検証し優先順位を見直す"
+  },
+  {
+    "candidateId": "nishiwaki",
+    "questionId": "q05",
+    "stance": 0,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=4",
+    "evidence": "地下鉄延伸は「費用と効果を検証して判断」"
+  },
+  {
+    "candidateId": "nishiwaki",
+    "questionId": "q06",
+    "stance": -1,
+    "sourceUrl": "https://note.com/nishiwaki_hk/n/n3722356cd738",
+    "evidence": "「車を敵にしない渋滞対策」を進める"
+  },
+  {
+    "candidateId": "nishiwaki",
+    "questionId": "q07",
+    "stance": 1,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs79ea052d371545998eb701d50bc696e8?p=4",
+    "evidence": "低所得世帯等の家賃・初期費用支援を検討"
+  },
+  {
+    "candidateId": "nishiwaki",
+    "questionId": "q08",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs79ea052d371545998eb701d50bc696e8?p=4",
+    "evidence": "空き家・空室改修、手ごろな貸出と市営住宅空室活用"
+  },
+  {
+    "candidateId": "nishiwaki",
+    "questionId": "q09",
+    "stance": -2,
+    "sourceUrl": "https://note.com/nishiwaki_hk/n/n3722356cd738",
+    "evidence": "「住民税5％減税のような単純な減税を主要政策」にしない"
+  },
+  {
+    "candidateId": "nishiwaki",
+    "questionId": "q10",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs295aa21c9d5144069f3bbe59850519a8",
+    "evidence": "避難所改善、共助の仕組みと生活再建支援"
+  },
+  {
+    "candidateId": "nishiwaki",
+    "questionId": "q11",
+    "stance": 2,
+    "sourceUrl": "https://go2senkyo.com/seijika/200151/posts/1517723",
+    "evidence": "飲食店に融資負担軽減・省人化投資等を支援"
+  },
+  {
+    "candidateId": "nishiwaki",
+    "questionId": "q12",
+    "stance": 1,
+    "sourceUrl": "https://note.com/nishiwaki_hk/n/n3722356cd738",
+    "evidence": "第2子からの無償化を第1子からへ拡充する方針"
+  },
+  {
+    "candidateId": "nishiwaki",
+    "questionId": "q13",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "nishiwaki",
+    "questionId": "q14",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "nishiwaki",
+    "questionId": "q15",
+    "stance": 2,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=4",
+    "evidence": "選択的夫婦別姓に「賛成」"
+  },
+  {
+    "candidateId": "nishiwaki",
+    "questionId": "q16",
+    "stance": 1,
+    "sourceUrl": "https://note.com/nishiwaki_hk/n/n3722356cd738",
+    "evidence": "国籍を問わず生活ルールを行政が分かりやすく伝える"
+  },
+  {
+    "candidateId": "nishiwaki",
+    "questionId": "q17",
+    "stance": 2,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=4",
+    "evidence": "同性婚に「賛成」"
+  },
+  {
+    "candidateId": "nishiwaki",
+    "questionId": "q18",
+    "stance": 2,
+    "sourceUrl": "https://note.com/nishiwaki_hk/n/n3722356cd738",
+    "evidence": "事業の費用・効果・評価を公開し判断理由も説明"
+  },
+  {
+    "candidateId": "nishiwaki",
+    "questionId": "q19",
+    "stance": 2,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=4",
+    "evidence": "「副首都化を仕事と所得の増加につなげたい」"
+  },
+  {
+    "candidateId": "nishiwaki",
+    "questionId": "q20",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "watanabe",
+    "questionId": "q01",
+    "stance": -1,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsb9dc22e521b6436186fabd2c2acc87a1",
+    "evidence": "FBS回答：高島市政を「あまり評価しない」"
+  },
+  {
+    "candidateId": "watanabe",
+    "questionId": "q02",
+    "stance": -1,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs2db9bc4211ea445aacdeb29efc5b0aaa",
+    "evidence": "FBS回答：「あまり還元されていない」"
+  },
+  {
+    "candidateId": "watanabe",
+    "questionId": "q03",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "watanabe",
+    "questionId": "q04",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsc1c64b65fd724513a756496cde200d58",
+    "evidence": "選択：公共交通の利便性向上を優先"
+  },
+  {
+    "candidateId": "watanabe",
+    "questionId": "q05",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "watanabe",
+    "questionId": "q06",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "watanabe",
+    "questionId": "q07",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "watanabe",
+    "questionId": "q08",
+    "stance": 1,
+    "sourceUrl": "https://www.tvq.co.jp/news/news.html?did=2026110400000005",
+    "evidence": "市営住宅の活用・建替え、空き家対策を提案"
+  },
+  {
+    "candidateId": "watanabe",
+    "questionId": "q09",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "watanabe",
+    "questionId": "q10",
+    "stance": 1,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs295aa21c9d5144069f3bbe59850519a8",
+    "evidence": "適正人口の目標に応じた防災施策を実施"
+  },
+  {
+    "candidateId": "watanabe",
+    "questionId": "q11",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "watanabe",
+    "questionId": "q12",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "watanabe",
+    "questionId": "q13",
+    "stance": 2,
+    "sourceUrl": "https://www.city.fukuoka.lg.jp/senkan/senkyo/shisei/senkyotokusetu/shicho/documents/R8kouhou.pdf",
+    "evidence": "選挙公報：小中学校の教員数増加を提案"
+  },
+  {
+    "candidateId": "watanabe",
+    "questionId": "q14",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "watanabe",
+    "questionId": "q15",
+    "stance": 2,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=5",
+    "evidence": "選択的夫婦別姓に「賛成」"
+  },
+  {
+    "candidateId": "watanabe",
+    "questionId": "q16",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "watanabe",
+    "questionId": "q17",
+    "stance": -2,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=5",
+    "evidence": "同性婚に「反対」"
+  },
+  {
+    "candidateId": "watanabe",
+    "questionId": "q18",
+    "stance": 2,
+    "sourceUrl": "https://www.asahi.com/articles/ASVC13VSQVC1TIPE010M.html",
+    "evidence": "「プロセスと政策決定をオープンな形で行う」"
+  },
+  {
+    "candidateId": "watanabe",
+    "questionId": "q19",
+    "stance": 2,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=5",
+    "evidence": "副首都を福岡に誘致する意向"
+  },
+  {
+    "candidateId": "watanabe",
+    "questionId": "q20",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "katayama",
+    "questionId": "q01",
+    "stance": -1,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsb9dc22e521b6436186fabd2c2acc87a1?p=2",
+    "evidence": "FBS回答：高島市政を「あまり評価しない」"
+  },
+  {
+    "candidateId": "katayama",
+    "questionId": "q02",
+    "stance": -1,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs2db9bc4211ea445aacdeb29efc5b0aaa?p=2",
+    "evidence": "FBS回答：「あまり還元されていない」"
+  },
+  {
+    "candidateId": "katayama",
+    "questionId": "q03",
+    "stance": -2,
+    "sourceUrl": "https://katayamasumiko.com/",
+    "evidence": "「都心部再開発の検証・転換」を公約"
+  },
+  {
+    "candidateId": "katayama",
+    "questionId": "q04",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsc1c64b65fd724513a756496cde200d58?p=2",
+    "evidence": "選択：公共交通の利便性向上を優先"
+  },
+  {
+    "candidateId": "katayama",
+    "questionId": "q05",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "katayama",
+    "questionId": "q06",
+    "stance": 2,
+    "sourceUrl": "https://katayamasumiko.com/",
+    "evidence": "「都心部への車両乗り入れ規制と公共交通の整備」"
+  },
+  {
+    "candidateId": "katayama",
+    "questionId": "q07",
+    "stance": 2,
+    "sourceUrl": "https://www.tvq.co.jp/news/news.html?did=2026110400000005",
+    "evidence": "「若者や高齢者への家賃補助」を訴える"
+  },
+  {
+    "candidateId": "katayama",
+    "questionId": "q08",
+    "stance": 2,
+    "sourceUrl": "https://katayamasumiko.com/",
+    "evidence": "市営住宅の管理戸数を増やし家賃補助も拡充"
+  },
+  {
+    "candidateId": "katayama",
+    "questionId": "q09",
+    "stance": -2,
+    "sourceUrl": "https://katayamasumiko.com/",
+    "evidence": "大企業への法人市民税の更なる超過税率適用を検討"
+  },
+  {
+    "candidateId": "katayama",
+    "questionId": "q10",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs295aa21c9d5144069f3bbe59850519a8?p=2",
+    "evidence": "公的備蓄、避難所、住宅・上下水道の耐震化を強化"
+  },
+  {
+    "candidateId": "katayama",
+    "questionId": "q11",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs79ea052d371545998eb701d50bc696e8?p=4",
+    "evidence": "賃上げ直接支援、公契約条例、地元受注を推進"
+  },
+  {
+    "candidateId": "katayama",
+    "questionId": "q12",
+    "stance": 2,
+    "sourceUrl": "https://katayamasumiko.com/",
+    "evidence": "3歳未満の保育費の完全無料化を提案"
+  },
+  {
+    "candidateId": "katayama",
+    "questionId": "q13",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs5e6d6f0345a444cea77edca2395ac774?p=4",
+    "evidence": "過大規模校解消、少人数学級、教職員増員"
+  },
+  {
+    "candidateId": "katayama",
+    "questionId": "q14",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs5e6d6f0345a444cea77edca2395ac774?p=4",
+    "evidence": "不登校支援の充実と子どもの権利保障"
+  },
+  {
+    "candidateId": "katayama",
+    "questionId": "q15",
+    "stance": 2,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=6",
+    "evidence": "選択的夫婦別姓に「賛成」"
+  },
+  {
+    "candidateId": "katayama",
+    "questionId": "q16",
+    "stance": 2,
+    "sourceUrl": "https://katayamasumiko.com/",
+    "evidence": "多言語相談センターと日本語学習環境を整備"
+  },
+  {
+    "candidateId": "katayama",
+    "questionId": "q17",
+    "stance": 2,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=6",
+    "evidence": "同性婚に「賛成」"
+  },
+  {
+    "candidateId": "katayama",
+    "questionId": "q18",
+    "stance": 2,
+    "sourceUrl": "https://katayamasumiko.com/",
+    "evidence": "政策の前提として「政治の透明性の確保」"
+  },
+  {
+    "candidateId": "katayama",
+    "questionId": "q19",
+    "stance": 0,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=6",
+    "evidence": "「判断保留。詳細不明・優先順位が判断不能」"
+  },
+  {
+    "candidateId": "katayama",
+    "questionId": "q20",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "niimura",
+    "questionId": "q01",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsb9dc22e521b6436186fabd2c2acc87a1?p=2",
+    "evidence": "「都市成長と税収増を実現した16年間の実績を評価」"
+  },
+  {
+    "candidateId": "niimura",
+    "questionId": "q02",
+    "stance": 1,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs2db9bc4211ea445aacdeb29efc5b0aaa?p=2",
+    "evidence": "FBS回答：「ある程度還元されている」"
+  },
+  {
+    "candidateId": "niimura",
+    "questionId": "q03",
+    "stance": 2,
+    "sourceUrl": "https://www.asahi.com/articles/ASVC13VSQVC1TIPE010M.html",
+    "evidence": "再開発促進策をほかのエリアにも広げる政策"
+  },
+  {
+    "candidateId": "niimura",
+    "questionId": "q04",
+    "stance": 0,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsc1c64b65fd724513a756496cde200d58?p=2",
+    "evidence": "選択：都心部と周辺地域のバランスを重視"
+  },
+  {
+    "candidateId": "niimura",
+    "questionId": "q05",
+    "stance": 2,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=7",
+    "evidence": "「貝塚線直通と延伸は任期中に決断」"
+  },
+  {
+    "candidateId": "niimura",
+    "questionId": "q06",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "niimura",
+    "questionId": "q07",
+    "stance": 0,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=7",
+    "evidence": "「住まいの支援拡充と所得向上」、賃補助は明記せず"
+  },
+  {
+    "candidateId": "niimura",
+    "questionId": "q08",
+    "stance": 1,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs2db9bc4211ea445aacdeb29efc5b0aaa?p=4",
+    "evidence": "市営住宅への入居支援を提案"
+  },
+  {
+    "candidateId": "niimura",
+    "questionId": "q09",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "niimura",
+    "questionId": "q10",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs295aa21c9d5144069f3bbe59850519a8?p=2",
+    "evidence": "地下治水強化、水道管耐震化、公的備蓄を改善"
+  },
+  {
+    "candidateId": "niimura",
+    "questionId": "q11",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs79ea052d371545998eb701d50bc696e8?p=4",
+    "evidence": "地場中小企業のDX支援を強化"
+  },
+  {
+    "candidateId": "niimura",
+    "questionId": "q12",
+    "stance": 1,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs5e6d6f0345a444cea77edca2395ac774?p=4",
+    "evidence": "財源を確保し第1子無償化拡大を目指す"
+  },
+  {
+    "candidateId": "niimura",
+    "questionId": "q13",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "niimura",
+    "questionId": "q14",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs5e6d6f0345a444cea77edca2395ac774?p=4",
+    "evidence": "不登校児童生徒への丁寧なケアを実施"
+  },
+  {
+    "candidateId": "niimura",
+    "questionId": "q15",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "niimura",
+    "questionId": "q16",
+    "stance": 2,
+    "sourceUrl": "https://www.fukuoka-answer100.com/promise/kodomo",
+    "evidence": "日本語が苦手な子の学習支援と生活マナー啓発"
+  },
+  {
+    "candidateId": "niimura",
+    "questionId": "q17",
+    "stance": 2,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=7",
+    "evidence": "同性婚に「賛成」"
+  },
+  {
+    "candidateId": "niimura",
+    "questionId": "q18",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "niimura",
+    "questionId": "q19",
+    "stance": 2,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=7",
+    "evidence": "「防災と交通を強化する好機。誘致を推進」"
+  },
+  {
+    "candidateId": "niimura",
+    "questionId": "q20",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs79ea052d371545998eb701d50bc696e8?p=4",
+    "evidence": "「スタートアップの上場支援を強化」"
+  },
+  {
+    "candidateId": "abe",
+    "questionId": "q01",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsb9dc22e521b6436186fabd2c2acc87a1?p=2",
+    "evidence": "再開発・企業誘致による成長を評価し次も継承"
+  },
+  {
+    "candidateId": "abe",
+    "questionId": "q02",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs2db9bc4211ea445aacdeb29efc5b0aaa?p=2",
+    "evidence": "FBS回答：「十分に還元されている」"
+  },
+  {
+    "candidateId": "abe",
+    "questionId": "q03",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsb9dc22e521b6436186fabd2c2acc87a1?p=4",
+    "evidence": "天神ビッグバン等を評価し次の市政でも成長戦略を継承"
+  },
+  {
+    "candidateId": "abe",
+    "questionId": "q04",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsc1c64b65fd724513a756496cde200d58?p=2",
+    "evidence": "選択：公共交通の利便性向上を優先"
+  },
+  {
+    "candidateId": "abe",
+    "questionId": "q05",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "abe",
+    "questionId": "q06",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "abe",
+    "questionId": "q07",
+    "stance": 2,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=8",
+    "evidence": "「若者・子育て世帯への家賃補助」を提案"
+  },
+  {
+    "candidateId": "abe",
+    "questionId": "q08",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "abe",
+    "questionId": "q09",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "abe",
+    "questionId": "q10",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs295aa21c9d5144069f3bbe59850519a8?p=2",
+    "evidence": "河川改修、耐震化支援、避難所設備・備蓄を拡充"
+  },
+  {
+    "candidateId": "abe",
+    "questionId": "q11",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs2db9bc4211ea445aacdeb29efc5b0aaa?p=4",
+    "evidence": "企業誘致や地場企業支援で地域経済を活性化"
+  },
+  {
+    "candidateId": "abe",
+    "questionId": "q12",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs5e6d6f0345a444cea77edca2395ac774?p=4",
+    "evidence": "「第一子からの保育料無償化」を推進"
+  },
+  {
+    "candidateId": "abe",
+    "questionId": "q13",
+    "stance": 1,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs79ea052d371545998eb701d50bc696e8?p=4",
+    "evidence": "学校の過大規模化への対応を充実"
+  },
+  {
+    "candidateId": "abe",
+    "questionId": "q14",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "abe",
+    "questionId": "q15",
+    "stance": -1,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=8",
+    "evidence": "選択的夫婦別姓に「どちらかといえば反対」"
+  },
+  {
+    "candidateId": "abe",
+    "questionId": "q16",
+    "stance": 1,
+    "sourceUrl": "https://www.city.fukuoka.lg.jp/senkan/senkyo/shisei/senkyotokusetu/shicho/documents/R8kouhou.pdf",
+    "evidence": "受入企業・学校への生活ルール教育を条例で求める"
+  },
+  {
+    "candidateId": "abe",
+    "questionId": "q17",
+    "stance": -1,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=8",
+    "evidence": "同性婚に「どちらかといえば反対」"
+  },
+  {
+    "candidateId": "abe",
+    "questionId": "q18",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "abe",
+    "questionId": "q19",
+    "stance": 2,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=8",
+    "evidence": "副首都機能の誘致と都市機能の強化を推進"
+  },
+  {
+    "candidateId": "abe",
+    "questionId": "q20",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsb9dc22e521b6436186fabd2c2acc87a1?p=4",
+    "evidence": "スタートアップ支援を評価し成長戦略を継承"
+  },
+  {
+    "candidateId": "inatomi",
+    "questionId": "q01",
+    "stance": 1,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsb9dc22e521b6436186fabd2c2acc87a1?p=2",
+    "evidence": "知名度や都市ブランド、都市の成長を評価"
+  },
+  {
+    "candidateId": "inatomi",
+    "questionId": "q02",
+    "stance": -1,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs2db9bc4211ea445aacdeb29efc5b0aaa?p=2",
+    "evidence": "FBS回答：「あまり還元されていない」"
+  },
+  {
+    "candidateId": "inatomi",
+    "questionId": "q03",
+    "stance": 1,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsc1c64b65fd724513a756496cde200d58?p=4",
+    "evidence": "都心の成長と周辺の暮らしやすさを両立"
+  },
+  {
+    "candidateId": "inatomi",
+    "questionId": "q04",
+    "stance": 0,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsc1c64b65fd724513a756496cde200d58?p=2",
+    "evidence": "選択：都心部と周辺地域のバランスを重視"
+  },
+  {
+    "candidateId": "inatomi",
+    "questionId": "q05",
+    "stance": 1,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=9",
+    "evidence": "貝塚線を含む延伸の実現可能性を検討"
+  },
+  {
+    "candidateId": "inatomi",
+    "questionId": "q06",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsc1c64b65fd724513a756496cde200d58?p=4",
+    "evidence": "「公共交通への利用転換などで渋滞を緩和」"
+  },
+  {
+    "candidateId": "inatomi",
+    "questionId": "q07",
+    "stance": 1,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=9",
+    "evidence": "「家賃支援や住宅供給策で住居費負担を軽減」"
+  },
+  {
+    "candidateId": "inatomi",
+    "questionId": "q08",
+    "stance": 1,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=9",
+    "evidence": "家賃支援と住宅供給策を提案"
+  },
+  {
+    "candidateId": "inatomi",
+    "questionId": "q09",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "inatomi",
+    "questionId": "q10",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs295aa21c9d5144069f3bbe59850519a8?p=2",
+    "evidence": "避難所改善、個別避難計画、AI点検・水位観測"
+  },
+  {
+    "candidateId": "inatomi",
+    "questionId": "q11",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs79ea052d371545998eb701d50bc696e8?p=4",
+    "evidence": "地場企業の生産性向上と人材投資を推進"
+  },
+  {
+    "candidateId": "inatomi",
+    "questionId": "q12",
+    "stance": 1,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs5e6d6f0345a444cea77edca2395ac774?p=4",
+    "evidence": "第1子からの支援充実や費用負担軽減を検討"
+  },
+  {
+    "candidateId": "inatomi",
+    "questionId": "q13",
+    "stance": 1,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs5e6d6f0345a444cea77edca2395ac774?p=4",
+    "evidence": "教職員の配置充実に取り組む"
+  },
+  {
+    "candidateId": "inatomi",
+    "questionId": "q14",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs5e6d6f0345a444cea77edca2395ac774?p=4",
+    "evidence": "不登校の子どもへの多様な学びの場を確保"
+  },
+  {
+    "candidateId": "inatomi",
+    "questionId": "q15",
+    "stance": 2,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=9",
+    "evidence": "選択的夫婦別姓に「賛成」"
+  },
+  {
+    "candidateId": "inatomi",
+    "questionId": "q16",
+    "stance": 2,
+    "sourceUrl": "https://inatomi.jp/seisaku/",
+    "evidence": "外国人住民向けの生活案内とルール周知を充実"
+  },
+  {
+    "candidateId": "inatomi",
+    "questionId": "q17",
+    "stance": 2,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=9",
+    "evidence": "同性婚に「賛成」"
+  },
+  {
+    "candidateId": "inatomi",
+    "questionId": "q18",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs2db9bc4211ea445aacdeb29efc5b0aaa?p=4",
+    "evidence": "所得・住宅負担・満足度を成果指標として公表"
+  },
+  {
+    "candidateId": "inatomi",
+    "questionId": "q19",
+    "stance": 2,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=9",
+    "evidence": "「副首都・福岡を実現し、雇用と所得を増やす」"
+  },
+  {
+    "candidateId": "inatomi",
+    "questionId": "q20",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "yoshitomi",
+    "questionId": "q01",
+    "stance": 1,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsb9dc22e521b6436186fabd2c2acc87a1?p=3",
+    "evidence": "「都市の成長と発信力は評価」"
+  },
+  {
+    "candidateId": "yoshitomi",
+    "questionId": "q02",
+    "stance": -1,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs2db9bc4211ea445aacdeb29efc5b0aaa?p=3",
+    "evidence": "FBS回答：「あまり還元されていない」"
+  },
+  {
+    "candidateId": "yoshitomi",
+    "questionId": "q03",
+    "stance": 1,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsb9dc22e521b6436186fabd2c2acc87a1?p=4",
+    "evidence": "都市の魅力づくりは継承し発注先は見直す"
+  },
+  {
+    "candidateId": "yoshitomi",
+    "questionId": "q04",
+    "stance": 0,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsc1c64b65fd724513a756496cde200d58?p=3",
+    "evidence": "選択：現行施策を検証し優先順位を見直す"
+  },
+  {
+    "candidateId": "yoshitomi",
+    "questionId": "q05",
+    "stance": 0,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=10",
+    "evidence": "「費用対効果と市民負担を見極め」て判断"
+  },
+  {
+    "candidateId": "yoshitomi",
+    "questionId": "q06",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "yoshitomi",
+    "questionId": "q07",
+    "stance": 2,
+    "sourceUrl": "https://www.tvq.co.jp/news/news.html?did=2026110400000005",
+    "evidence": "「駅の近くの住宅街に家賃補助」も必要"
+  },
+  {
+    "candidateId": "yoshitomi",
+    "questionId": "q08",
+    "stance": 1,
+    "sourceUrl": "https://www.tvq.co.jp/news/news.html?did=2026110400000005",
+    "evidence": "市営住宅活用と駅周辺の家賃補助を提案"
+  },
+  {
+    "candidateId": "yoshitomi",
+    "questionId": "q09",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "yoshitomi",
+    "questionId": "q10",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs295aa21c9d5144069f3bbe59850519a8?p=3",
+    "evidence": "住宅耐震化と全指定避難所の設備総点検"
+  },
+  {
+    "candidateId": "yoshitomi",
+    "questionId": "q11",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs79ea052d371545998eb701d50bc696e8?p=4",
+    "evidence": "地元企業優先の調達・事業承継・飲食店融資"
+  },
+  {
+    "candidateId": "yoshitomi",
+    "questionId": "q12",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "yoshitomi",
+    "questionId": "q13",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "yoshitomi",
+    "questionId": "q14",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs5e6d6f0345a444cea77edca2395ac774?p=4",
+    "evidence": "基準を満たすフリースクール利用料を所得に応じ助成"
+  },
+  {
+    "candidateId": "yoshitomi",
+    "questionId": "q15",
+    "stance": -2,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=10",
+    "evidence": "選択的夫婦別姓に「反対」"
+  },
+  {
+    "candidateId": "yoshitomi",
+    "questionId": "q16",
+    "stance": 2,
+    "sourceUrl": "https://yoshitomikeiko.jp/policy",
+    "evidence": "生活オリエンテーションと多言語相談を一般財源で実施"
+  },
+  {
+    "candidateId": "yoshitomi",
+    "questionId": "q17",
+    "stance": -2,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=10",
+    "evidence": "同性婚に「反対」"
+  },
+  {
+    "candidateId": "yoshitomi",
+    "questionId": "q18",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "yoshitomi",
+    "questionId": "q19",
+    "stance": 1,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=10",
+    "evidence": "県と連携し地元企業・市民の利益を重視"
+  },
+  {
+    "candidateId": "yoshitomi",
+    "questionId": "q20",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "sasaki",
+    "questionId": "q01",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsb9dc22e521b6436186fabd2c2acc87a1?p=3",
+    "evidence": "都市再開発や経済成長の成果を「高く評価」"
+  },
+  {
+    "candidateId": "sasaki",
+    "questionId": "q02",
+    "stance": 1,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs2db9bc4211ea445aacdeb29efc5b0aaa?p=3",
+    "evidence": "FBS回答：「ある程度還元されている」"
+  },
+  {
+    "candidateId": "sasaki",
+    "questionId": "q03",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsb9dc22e521b6436186fabd2c2acc87a1?p=4",
+    "evidence": "「天神ビッグバンをはじめとする成長路線」を継承"
+  },
+  {
+    "candidateId": "sasaki",
+    "questionId": "q04",
+    "stance": 0,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsc1c64b65fd724513a756496cde200d58?p=3",
+    "evidence": "選択：都心部と周辺地域のバランスを重視"
+  },
+  {
+    "candidateId": "sasaki",
+    "questionId": "q05",
+    "stance": 1,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=11",
+    "evidence": "延伸を含む質問に「インフラ投資はもちろん」"
+  },
+  {
+    "candidateId": "sasaki",
+    "questionId": "q06",
+    "stance": 1,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsc1c64b65fd724513a756496cde200d58?p=4",
+    "evidence": "地下鉄増便・パーク＆ライド等を一体的に推進"
+  },
+  {
+    "candidateId": "sasaki",
+    "questionId": "q07",
+    "stance": 2,
+    "sourceUrl": "https://www.tvq.co.jp/news/news.html?did=2026110400000005",
+    "evidence": "「引っ越しの補助や家賃の補助を継続」"
+  },
+  {
+    "candidateId": "sasaki",
+    "questionId": "q08",
+    "stance": 2,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=11",
+    "evidence": "「市営住宅の拡充や空き家や家賃補助」"
+  },
+  {
+    "candidateId": "sasaki",
+    "questionId": "q09",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "sasaki",
+    "questionId": "q10",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs295aa21c9d5144069f3bbe59850519a8?p=3",
+    "evidence": "耐震化・浸水対策と避難所環境を強力に推進"
+  },
+  {
+    "candidateId": "sasaki",
+    "questionId": "q11",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs79ea052d371545998eb701d50bc696e8?p=4",
+    "evidence": "入札優遇・委託料で中小企業の賃上げを支援"
+  },
+  {
+    "candidateId": "sasaki",
+    "questionId": "q12",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs5e6d6f0345a444cea77edca2395ac774?p=4",
+    "evidence": "第1子からの0〜2歳児無償化の早期実現"
+  },
+  {
+    "candidateId": "sasaki",
+    "questionId": "q13",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "sasaki",
+    "questionId": "q14",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs5e6d6f0345a444cea77edca2395ac774?p=4",
+    "evidence": "不登校児童への伴走支援を実施"
+  },
+  {
+    "candidateId": "sasaki",
+    "questionId": "q15",
+    "stance": 2,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=11",
+    "evidence": "選択的夫婦別姓に「賛成」"
+  },
+  {
+    "candidateId": "sasaki",
+    "questionId": "q16",
+    "stance": 2,
+    "sourceUrl": "https://sasaki-ayano.jp/policy/living/",
+    "evidence": "生活ルール説明と相談体制を整備"
+  },
+  {
+    "candidateId": "sasaki",
+    "questionId": "q17",
+    "stance": 0,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=11",
+    "evidence": "同性婚は「今後更なる議論が必要」"
+  },
+  {
+    "candidateId": "sasaki",
+    "questionId": "q18",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "sasaki",
+    "questionId": "q19",
+    "stance": 1,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=11",
+    "evidence": "「賛成だが、市民にメリットがある形」が条件"
+  },
+  {
+    "candidateId": "sasaki",
+    "questionId": "q20",
+    "stance": 2,
+    "sourceUrl": "https://www.asahi.com/articles/ASVC13VSQVC1TIPE010M.html",
+    "evidence": "スタートアップ政策の「挑戦のたすき」を継承"
+  },
+  {
+    "candidateId": "shirabe",
+    "questionId": "q01",
+    "stance": 1,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsb9dc22e521b6436186fabd2c2acc87a1?p=3",
+    "evidence": "人口増・特区・再開発・企業誘致による成長を評価"
+  },
+  {
+    "candidateId": "shirabe",
+    "questionId": "q02",
+    "stance": 1,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs2db9bc4211ea445aacdeb29efc5b0aaa?p=3",
+    "evidence": "FBS回答：「ある程度還元されている」"
+  },
+  {
+    "candidateId": "shirabe",
+    "questionId": "q03",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsc1c64b65fd724513a756496cde200d58?p=4",
+    "evidence": "「天神・博多の成長を継続」して周辺へ拡大"
+  },
+  {
+    "candidateId": "shirabe",
+    "questionId": "q04",
+    "stance": 0,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsc1c64b65fd724513a756496cde200d58?p=3",
+    "evidence": "選択：都心部と周辺地域のバランスを重視"
+  },
+  {
+    "candidateId": "shirabe",
+    "questionId": "q05",
+    "stance": 2,
+    "sourceUrl": "https://t-shirabe.net/",
+    "evidence": "交通提案：空港国際線延伸を推進"
+  },
+  {
+    "candidateId": "shirabe",
+    "questionId": "q06",
+    "stance": 0,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsc1c64b65fd724513a756496cde200d58?p=4",
+    "evidence": "道路改良と公共交通接続の双方を進める"
+  },
+  {
+    "candidateId": "shirabe",
+    "questionId": "q07",
+    "stance": 1,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=12",
+    "evidence": "住宅費高騰への「負担軽減策を進める」"
+  },
+  {
+    "candidateId": "shirabe",
+    "questionId": "q08",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "shirabe",
+    "questionId": "q09",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "shirabe",
+    "questionId": "q10",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs295aa21c9d5144069f3bbe59850519a8?p=3",
+    "evidence": "都市基盤強靱化、備蓄・避難所・情報発信を改善"
+  },
+  {
+    "candidateId": "shirabe",
+    "questionId": "q11",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs79ea052d371545998eb701d50bc696e8?p=4",
+    "evidence": "中小企業の生産性向上と成長産業の集積"
+  },
+  {
+    "candidateId": "shirabe",
+    "questionId": "q12",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "shirabe",
+    "questionId": "q13",
+    "stance": 1,
+    "sourceUrl": "https://t-shirabe.net/",
+    "evidence": "政策：学校の人員増強と過大規模校対策"
+  },
+  {
+    "candidateId": "shirabe",
+    "questionId": "q14",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs5e6d6f0345a444cea77edca2395ac774?p=4",
+    "evidence": "不登校など多様なニーズに対応する支援体制"
+  },
+  {
+    "candidateId": "shirabe",
+    "questionId": "q15",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "shirabe",
+    "questionId": "q16",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "shirabe",
+    "questionId": "q17",
+    "stance": 2,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=12",
+    "evidence": "同性婚に「賛成」"
+  },
+  {
+    "candidateId": "shirabe",
+    "questionId": "q18",
+    "stance": 2,
+    "sourceUrl": "https://t-shirabe.net/",
+    "evidence": "「政策の検討から決定、成果まで」信頼を可視化"
+  },
+  {
+    "candidateId": "shirabe",
+    "questionId": "q19",
+    "stance": 2,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=12",
+    "evidence": "副首都機能誘致を県・市と連携して推進"
+  },
+  {
+    "candidateId": "shirabe",
+    "questionId": "q20",
+    "stance": 2,
+    "sourceUrl": "https://t-shirabe.net/",
+    "evidence": "「スタートアップ・副首都構想の推進」"
+  },
+  {
+    "candidateId": "jinno",
+    "questionId": "q01",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsb9dc22e521b6436186fabd2c2acc87a1?p=3",
+    "evidence": "都市の成長、人口・税収増を「高く評価」"
+  },
+  {
+    "candidateId": "jinno",
+    "questionId": "q02",
+    "stance": 1,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs2db9bc4211ea445aacdeb29efc5b0aaa?p=3",
+    "evidence": "FBS回答：「ある程度還元されている」"
+  },
+  {
+    "candidateId": "jinno",
+    "questionId": "q03",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsb9dc22e521b6436186fabd2c2acc87a1?p=4",
+    "evidence": "天神ビッグバン等の成長の力を継承"
+  },
+  {
+    "candidateId": "jinno",
+    "questionId": "q04",
+    "stance": 0,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsc1c64b65fd724513a756496cde200d58?p=3",
+    "evidence": "選択：都心部と周辺地域のバランスを重視"
+  },
+  {
+    "candidateId": "jinno",
+    "questionId": "q05",
+    "stance": 1,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsc1c64b65fd724513a756496cde200d58?p=4",
+    "evidence": "国際線延伸の「検討を加速」"
+  },
+  {
+    "candidateId": "jinno",
+    "questionId": "q06",
+    "stance": 0,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=13",
+    "evidence": "「都心部への車の流入を制御」、方法は不明"
+  },
+  {
+    "candidateId": "jinno",
+    "questionId": "q07",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "jinno",
+    "questionId": "q08",
+    "stance": 2,
+    "sourceUrl": "https://www.tvq.co.jp/news/news.html?did=2026110400000005",
+    "evidence": "市営住宅改装・空き家活用で手ごろな住まいを用意"
+  },
+  {
+    "candidateId": "jinno",
+    "questionId": "q09",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "jinno",
+    "questionId": "q10",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs295aa21c9d5144069f3bbe59850519a8?p=3",
+    "evidence": "下水道・雨水貯留施設整備と個別避難計画を加速"
+  },
+  {
+    "candidateId": "jinno",
+    "questionId": "q11",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs2db9bc4211ea445aacdeb29efc5b0aaa?p=4",
+    "evidence": "中小企業のDX・AI、価格転嫁、販路を支援"
+  },
+  {
+    "candidateId": "jinno",
+    "questionId": "q12",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs79ea052d371545998eb701d50bc696e8?p=4",
+    "evidence": "「第1子も0歳から保育料を無償に」"
+  },
+  {
+    "candidateId": "jinno",
+    "questionId": "q13",
+    "stance": 1,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs5e6d6f0345a444cea77edca2395ac774?p=4",
+    "evidence": "過大規模校の対策と先生の負担軽減に取り組む"
+  },
+  {
+    "candidateId": "jinno",
+    "questionId": "q14",
+    "stance": 1,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs5e6d6f0345a444cea77edca2395ac774?p=4",
+    "evidence": "インクルーシブ教育と子どもに合わせる学校改革"
+  },
+  {
+    "candidateId": "jinno",
+    "questionId": "q15",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "jinno",
+    "questionId": "q16",
+    "stance": 2,
+    "sourceUrl": "https://genkijinno.com/policy/genkijinno-policy-digest.pdf",
+    "evidence": "政策：外国人相談窓口を拡充"
+  },
+  {
+    "candidateId": "jinno",
+    "questionId": "q17",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "jinno",
+    "questionId": "q18",
+    "stance": 2,
+    "sourceUrl": "https://genkijinno.com/",
+    "evidence": "校区対話の意見・事業業費・財源・成果を公開"
+  },
+  {
+    "candidateId": "jinno",
+    "questionId": "q19",
+    "stance": 2,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=13",
+    "evidence": "副首都構想を「継承し加速」"
+  },
+  {
+    "candidateId": "jinno",
+    "questionId": "q20",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsb9dc22e521b6436186fabd2c2acc87a1?p=4",
+    "evidence": "スタートアップ支援を評価し継承"
+  },
+  {
+    "candidateId": "inoue",
+    "questionId": "q01",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsb9dc22e521b6436186fabd2c2acc87a1?p=4",
+    "evidence": "市税収入1.6倍、市債残高約3割減を評価"
+  },
+  {
+    "candidateId": "inoue",
+    "questionId": "q02",
+    "stance": 1,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs2db9bc4211ea445aacdeb29efc5b0aaa?p=4",
+    "evidence": "FBS回答：「ある程度還元されている」"
+  },
+  {
+    "candidateId": "inoue",
+    "questionId": "q03",
+    "stance": 1,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsc1c64b65fd724513a756496cde200d58?p=4",
+    "evidence": "周辺にも広げながら成長を図る"
+  },
+  {
+    "candidateId": "inoue",
+    "questionId": "q04",
+    "stance": 0,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsc1c64b65fd724513a756496cde200d58?p=4",
+    "evidence": "選択：都心部と周辺地域のバランスを重視"
+  },
+  {
+    "candidateId": "inoue",
+    "questionId": "q05",
+    "stance": 0,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=14",
+    "evidence": "「鉄道の相互乗入や延伸を図る」と一般論にとどまる"
+  },
+  {
+    "candidateId": "inoue",
+    "questionId": "q06",
+    "stance": -1,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=14",
+    "evidence": "「マイカーと公共機関の相互利用」を図る"
+  },
+  {
+    "candidateId": "inoue",
+    "questionId": "q07",
+    "stance": -1,
+    "sourceUrl": "https://www.tvq.co.jp/news/news.html?did=2026110400000005",
+    "evidence": "「家賃補助などによる行政の直接介入には否定的」"
+  },
+  {
+    "candidateId": "inoue",
+    "questionId": "q08",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "inoue",
+    "questionId": "q09",
+    "stance": 2,
+    "sourceUrl": "https://www.inoue-kiyoshi-fukuoka.com/",
+    "evidence": "「市民税5％減税」で税収増の成果を返す"
+  },
+  {
+    "candidateId": "inoue",
+    "questionId": "q10",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs295aa21c9d5144069f3bbe59850519a8?p=4",
+    "evidence": "避難先設備完備と他区への貯水施設整備"
+  },
+  {
+    "candidateId": "inoue",
+    "questionId": "q11",
+    "stance": 1,
+    "sourceUrl": "https://www.inoue-kiyoshi-fukuoka.com/",
+    "evidence": "事業者の税負担を軽くし商売しやすい都市へ"
+  },
+  {
+    "candidateId": "inoue",
+    "questionId": "q12",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "inoue",
+    "questionId": "q13",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "inoue",
+    "questionId": "q14",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "inoue",
+    "questionId": "q15",
+    "stance": -2,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=14",
+    "evidence": "選択的夫婦別姓に「反対」"
+  },
+  {
+    "candidateId": "inoue",
+    "questionId": "q16",
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+  },
+  {
+    "candidateId": "inoue",
+    "questionId": "q17",
+    "stance": -2,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=14",
+    "evidence": "同性婚に「反対」"
+  },
+  {
+    "candidateId": "inoue",
+    "questionId": "q18",
+    "stance": 2,
+    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs79ea052d371545998eb701d50bc696e8?p=4",
+    "evidence": "政治資金と市長・幹部・業者の関係を徹底公開"
+  },
+  {
+    "candidateId": "inoue",
+    "questionId": "q19",
+    "stance": 0,
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=14",
+    "evidence": "「やるかやらないか民意を聞いて決めたい」"
+  },
+  {
+    "candidateId": "inoue",
+    "questionId": "q20",
+    "stance": 1,
+    "sourceUrl": "https://www.inoue-kiyoshi-fukuoka.com/",
+    "evidence": "創業・雇用の税負担を軽減し起業を後押し"
+  }
+]

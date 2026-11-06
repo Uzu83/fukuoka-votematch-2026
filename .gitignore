@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+.vercel/
+lighthouse-report.json
+test-results/
+playwright-report/
+.DS_Store
+*.tsbuildinfo
+.env*
+lib/generated-data.ts
+public/build-info.json
+
+research/

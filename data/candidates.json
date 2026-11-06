@@ -1,0 +1,119 @@
+[
+  {
+    "id": "aramaki",
+    "name": "荒牧明楽",
+    "kana": "あらまき あきら",
+    "party": "こころ党",
+    "age": 41,
+    "occupation": "民間教育機関講師",
+    "site": "http://www.kokorotou.jp/message_aramaki"
+  },
+  {
+    "id": "mori",
+    "name": "森健太郎",
+    "kana": "もり けんたろう",
+    "party": "日本保守党",
+    "age": 48,
+    "occupation": "ITエンジニア",
+    "site": "https://moriken3.com/"
+  },
+  {
+    "id": "nishiwaki",
+    "name": "西脇寛樹",
+    "kana": "にしわき ひろき",
+    "party": "無所属",
+    "age": 35,
+    "occupation": "会社員",
+    "site": "https://go2senkyo.com/seijika/200151"
+  },
+  {
+    "id": "watanabe",
+    "name": "渡辺久也",
+    "kana": "わたなべ ひさや",
+    "party": "無所属",
+    "age": 58,
+    "occupation": "元経済産業省職員・会社代表",
+    "site": "https://watanabehisaya.politics.blog/"
+  },
+  {
+    "id": "katayama",
+    "name": "片山純子",
+    "kana": "かたやま すみこ",
+    "party": "無所属",
+    "age": 70,
+    "occupation": "市民団体事務局長",
+    "site": "https://katayamasumiko.com/"
+  },
+  {
+    "id": "niimura",
+    "name": "新村優",
+    "kana": "にいむら まさる",
+    "party": "無所属",
+    "age": 46,
+    "occupation": "前福岡市議会議員",
+    "site": "https://niimuramasaru.com"
+  },
+  {
+    "id": "abe",
+    "name": "阿部秀樹",
+    "kana": "あべ ひでき",
+    "party": "無所属",
+    "age": 31,
+    "occupation": "前福岡市議会議員・麻酔科医",
+    "site": "https://abehideki.com"
+  },
+  {
+    "id": "inatomi",
+    "name": "稲富修二",
+    "kana": "いなとみ しゅうじ",
+    "party": "無所属",
+    "age": 56,
+    "occupation": "前衆議院議員",
+    "site": "https://inatomi.jp/"
+  },
+  {
+    "id": "yoshitomi",
+    "name": "吉富景子",
+    "kana": "よしとみ けいこ",
+    "party": "無所属",
+    "age": 37,
+    "occupation": "眼科医",
+    "site": "https://yoshitomikeiko.jp/"
+  },
+  {
+    "id": "sasaki",
+    "name": "佐々木彩乃",
+    "kana": "ささき あやの",
+    "party": "無所属",
+    "age": 29,
+    "occupation": "一般社団法人代表理事",
+    "site": "https://sasaki-ayano.jp/"
+  },
+  {
+    "id": "shirabe",
+    "name": "調崇史",
+    "kana": "しらべ たかし",
+    "party": "無所属",
+    "age": 48,
+    "occupation": "前福岡市議会議員",
+    "site": "https://t-shirabe.net/"
+  },
+  {
+    "id": "jinno",
+    "name": "神野元基",
+    "kana": "じんの げんき",
+    "party": "無所属",
+    "age": 41,
+    "occupation": "東明館中学校・高校校長",
+    "site": "https://genkijinno.com/"
+  },
+  {
+    "id": "inoue",
+    "name": "井上潔",
+    "kana": "いのうえ きよし",
+    "party": "減税日本",
+    "age": 56,
+    "occupation": "行政書士・元国土交通省職員",
+    "site": "https://www.inoue-kiyoshi-fukuoka.com/"
+  }
+]

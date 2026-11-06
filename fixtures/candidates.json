@@ -1,0 +1,119 @@
+[
+  {
+    "id": "sample-candidate-01",
+    "name": "表示の確認用 01",
+    "kana": "サンプル データ",
+    "party": "架空の情報",
+    "age": 40,
+    "occupation": "UI動作確認用",
+    "site": "https://example.com/"
+  },
+  {
+    "id": "sample-candidate-02",
+    "name": "表示の確認用 02",
+    "kana": "サンプル データ",
+    "party": "架空の情報",
+    "age": 41,
+    "occupation": "UI動作確認用",
+    "site": "https://example.com/"
+  },
+  {
+    "id": "sample-candidate-03",
+    "name": "表示の確認用 03",
+    "kana": "サンプル データ",
+    "party": "架空の情報",
+    "age": 42,
+    "occupation": "UI動作確認用",
+    "site": "https://example.com/"
+  },
+  {
+    "id": "sample-candidate-04",
+    "name": "表示の確認用 04",
+    "kana": "サンプル データ",
+    "party": "架空の情報",
+    "age": 43,
+    "occupation": "UI動作確認用",
+    "site": "https://example.com/"
+  },
+  {
+    "id": "sample-candidate-05",
+    "name": "表示の確認用 05",
+    "kana": "サンプル データ",
+    "party": "架空の情報",
+    "age": 44,
+    "occupation": "UI動作確認用",
+    "site": "https://example.com/"
+  },
+  {
+    "id": "sample-candidate-06",
+    "name": "表示の確認用 06",
+    "kana": "サンプル データ",
+    "party": "架空の情報",
+    "age": 45,
+    "occupation": "UI動作確認用",
+    "site": "https://example.com/"
+  },
+  {
+    "id": "sample-candidate-07",
+    "name": "表示の確認用 07",
+    "kana": "サンプル データ",
+    "party": "架空の情報",
+    "age": 46,
+    "occupation": "UI動作確認用",
+    "site": "https://example.com/"
+  },
+  {
+    "id": "sample-candidate-08",
+    "name": "表示の確認用 08",
+    "kana": "サンプル データ",
+    "party": "架空の情報",
+    "age": 47,
+    "occupation": "UI動作確認用",
+    "site": "https://example.com/"
+  },
+  {
+    "id": "sample-candidate-09",
+    "name": "表示の確認用 09",
+    "kana": "サンプル データ",
+    "party": "架空の情報",
+    "age": 48,
+    "occupation": "UI動作確認用",
+    "site": "https://example.com/"
+  },
+  {
+    "id": "sample-candidate-10",
+    "name": "表示の確認用 10",
+    "kana": "サンプル データ",
+    "party": "架空の情報",
+    "age": 49,
+    "occupation": "UI動作確認用",
+    "site": "https://example.com/"
+  },
+  {
+    "id": "sample-candidate-11",
+    "name": "表示の確認用 11",
+    "kana": "サンプル データ",
+    "party": "架空の情報",
+    "age": 50,
+    "occupation": "UI動作確認用",
+    "site": "https://example.com/"
+  },
+  {
+    "id": "sample-candidate-12",
+    "name": "表示の確認用 12",
+    "kana": "サンプル データ",
+    "party": "架空の情報",
+    "age": 51,
+    "occupation": "UI動作確認用",
+    "site": "https://example.com/"
+  },
+  {
+    "id": "sample-candidate-13",
+    "name": "表示の確認用 13",
+    "kana": "サンプル データ",
+    "party": "架空の情報",
+    "age": 52,
+    "occupation": "UI動作確認用",
+    "site": "https://example.com/"
+  }
+]

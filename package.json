@@ -1,0 +1,39 @@
+{
+  "name": "fukuoka-votematch-2026",
+  "version": "1.0.0",
+  "private": true,
+  "description": "2026年福岡市長選挙のオープンソース・ボートマッチ",
+  "scripts": {
+    "dev": "npm run data:prepare && next dev",
+    "build": "npm run data:prepare && next build && npm run data:metadata",
+    "start": "node scripts/serve-static.mjs",
+    "preview": "npm run build && node scripts/serve-static.mjs",
+    "test": "npm run data:prepare && vitest run",
+    "test:watch": "vitest",
+    "data:prepare": "node scripts/prepare-data.mjs",
+    "data:metadata": "node scripts/write-data-metadata.mjs",
+    "typecheck": "tsc --noEmit",
+    "lighthouse": "lighthouse http://localhost:3000 --form-factor=mobile --screenEmulation.mobile=true --only-categories=performance,accessibility,best-practices,seo --output=json --output-path=./lighthouse-report.json",
+    "e2e": "playwright test"
+  },
+  "engines": {
+    "node": ">=20.9.0"
+  },
+  "dependencies": {
+    "next": "16.4.5",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.14.0",
+    "@playwright/test": "^1.65.0",
+    "@tailwindcss/postcss": "4.3.4",
+    "@types/node": "^24.10.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "lighthouse": "^13.6.0",
+    "tailwindcss": "4.3.4",
+    "typescript": "^5.9.0",
+    "vitest": "5.1.0"
+  }
+}
