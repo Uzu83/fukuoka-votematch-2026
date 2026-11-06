@@ -72,9 +72,9 @@
   {
     "candidateId": "aramaki",
     "questionId": "q11",
-    "stance": 1,
-    "sourceUrl": "https://www.kokorotou.jp/message_aramaki/",
-    "evidence": "教育・起業の所得向上策。既存中小企業の支援は不明"
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
   },
   {
     "candidateId": "aramaki",
@@ -353,8 +353,8 @@
     "candidateId": "nishiwaki",
     "questionId": "q11",
     "stance": 2,
-    "sourceUrl": "https://go2senkyo.com/seijika/200151/posts/1517723",
-    "evidence": "飲食店に融資負担軽減・省人化投資等を支援"
+    "sourceUrl": "https://note.com/nishiwaki_hk/n/n3722356cd738",
+    "evidence": "中小・個人事業者のDX・省人化投資を支援"
   },
   {
     "candidateId": "nishiwaki",
@@ -507,8 +507,8 @@
     "candidateId": "watanabe",
     "questionId": "q13",
     "stance": 2,
-    "sourceUrl": "https://www.city.fukuoka.lg.jp/senkan/senkyo/shisei/senkyotokusetu/shicho/documents/R8kouhou.pdf",
-    "evidence": "選挙公報：小中学校の教員数増加を提案"
+    "sourceUrl": "https://watanabehisaya.politics.blog/10issues/",
+    "evidence": "「学校規模適正化」を見直し、小中学校の先生を増やす"
   },
   {
     "candidateId": "watanabe",
@@ -555,9 +555,9 @@
   {
     "candidateId": "watanabe",
     "questionId": "q20",
-    "stance": null,
-    "sourceUrl": null,
-    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+    "stance": 2,
+    "sourceUrl": "https://watanabehisaya.politics.blog/10issues/",
+    "evidence": "希望者が自らお店を持ち・事業を始められる環境を整備"
   },
   {
     "candidateId": "katayama",
@@ -1430,9 +1430,9 @@
   {
     "candidateId": "shirabe",
     "questionId": "q05",
-    "stance": 1,
-    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fsc1c64b65fd724513a756496cde200d58?p=4",
-    "evidence": "国際線延伸を含め「地下鉄延伸の可能性検討」"
+    "stance": 2,
+    "sourceUrl": "https://t-shirabe.net/vision",
+    "evidence": "政策集：空港国際線への地下鉄延伸を提案"
   },
   {
     "candidateId": "shirabe",
@@ -1444,9 +1444,9 @@
   {
     "candidateId": "shirabe",
     "questionId": "q07",
-    "stance": 1,
-    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=12",
-    "evidence": "住宅費高騰への「負担軽減策を進める」"
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
   },
   {
     "candidateId": "shirabe",
@@ -1473,8 +1473,8 @@
     "candidateId": "shirabe",
     "questionId": "q11",
     "stance": 2,
-    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs79ea052d371545998eb701d50bc696e8?p=4",
-    "evidence": "中小企業の生産性向上と成長産業の集積"
+    "sourceUrl": "https://t-shirabe.net/vision",
+    "evidence": "中小企業へのAI・デジタル化支援と成長産業育成"
   },
   {
     "candidateId": "shirabe",
@@ -1486,16 +1486,16 @@
   {
     "candidateId": "shirabe",
     "questionId": "q13",
-    "stance": 1,
-    "sourceUrl": "https://t-shirabe.net/",
-    "evidence": "政策：学校の人員増強と過大規模校対策"
+    "stance": 2,
+    "sourceUrl": "https://t-shirabe.net/vision",
+    "evidence": "政策集：学校の人員増強と過大規模校対策"
   },
   {
     "candidateId": "shirabe",
     "questionId": "q14",
-    "stance": 2,
-    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs5e6d6f0345a444cea77edca2395ac774?p=4",
-    "evidence": "不登校など多様なニーズに対応する支援体制"
+    "stance": 1,
+    "sourceUrl": "https://t-shirabe.net/vision",
+    "evidence": "不登校支援を提案。学校外の学びの提供は不明"
   },
   {
     "candidateId": "shirabe",
@@ -1633,9 +1633,9 @@
   {
     "candidateId": "jinno",
     "questionId": "q14",
-    "stance": 1,
-    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs5e6d6f0345a444cea77edca2395ac774?p=4",
-    "evidence": "インクルーシブ教育と子どもに合わせる学校改革"
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
   },
   {
     "candidateId": "jinno",
@@ -1647,9 +1647,9 @@
   {
     "candidateId": "jinno",
     "questionId": "q16",
-    "stance": 2,
+    "stance": 1,
     "sourceUrl": "https://genkijinno.com/policy/genkijinno-policy-digest.pdf",
-    "evidence": "政策：外国人相談窓口を拡充"
+    "evidence": "外国人相談窓口の拡充。日本語・生活教育の提供は不明"
   },
   {
     "candidateId": "jinno",
