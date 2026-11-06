@@ -1,0 +1,106 @@
+[
+  {
+    "candidateId": "aramaki",
+    "pledges": [
+      {"text": "教育経済エンジンで手取り月100万円を目指す", "sourceUrl": "https://www.kokorotou.jp/aramaki_policy/"},
+      {"text": "過大規模校の分離新設と教員増員", "sourceUrl": "https://www.kokorotou.jp/aramaki_policy/"},
+      {"text": "第1子からの保育料無償化を進める", "sourceUrl": "https://www.kokorotou.jp/aramaki_policy/"}
+    ]
+  },
+  {
+    "candidateId": "mori",
+    "pledges": [
+      {"text": "税金の使い途を見える化し無駄を減税へ", "sourceUrl": "https://moriken3.com/"},
+      {"text": "地下鉄環状線化・直通化と信号運用改善", "sourceUrl": "https://moriken3.com/"},
+      {"text": "移民政策見直しと支援の国籍要件設定", "sourceUrl": "https://moriken3.com/"}
+    ]
+  },
+  {
+    "candidateId": "nishiwaki",
+    "pledges": [
+      {"text": "福岡を九州の成長エンジンに", "sourceUrl": "https://note.com/nishiwaki_hk/n/n6cfb22052e38"},
+      {"text": "第1子からの保育料無償化", "sourceUrl": "https://note.com/nishiwaki_hk/n/n6cfb22052e38"},
+      {"text": "広域連携で行政サービスを共同化", "sourceUrl": "https://note.com/nishiwaki_hk/n/n6cfb22052e38"}
+    ]
+  },
+  {
+    "candidateId": "watanabe",
+    "pledges": [
+      {"text": "17市町の一体的な行政運営を進める", "sourceUrl": "https://watanabehisaya.politics.blog/10issues/"},
+      {"text": "市民参加のオープンな政策決定", "sourceUrl": "https://watanabehisaya.politics.blog/10issues/"},
+      {"text": "はやかけんで公平な再配分の仕組み", "sourceUrl": "https://watanabehisaya.politics.blog/10issues/"}
+    ]
+  },
+  {
+    "candidateId": "katayama",
+    "pledges": [
+      {"text": "中小業者支援と賃上げで地域循環型経済へ", "sourceUrl": "https://katayamasumiko.com/"},
+      {"text": "家賃補助と市営住宅を充実", "sourceUrl": "https://katayamasumiko.com/"},
+      {"text": "公共コミュニティバスを市の責任で運行", "sourceUrl": "https://katayamasumiko.com/"}
+    ]
+  },
+  {
+    "candidateId": "niimura",
+    "pledges": [
+      {"text": "子どもの夢を実社会の学びで後押し", "sourceUrl": "https://www.fukuoka-answer100.com/promise/kodomo"},
+      {"text": "不登校のケアと再挑戦を支援", "sourceUrl": "https://www.fukuoka-answer100.com/promise/kodomo"},
+      {"text": "mirai@を加速し社会課題解決を全国へ", "sourceUrl": "https://www.fukuoka-answer100.com/promise/kenin"}
+    ]
+  },
+  {
+    "candidateId": "abe",
+    "pledges": [
+      {"text": "かせぐ・育てる・守る・つなぐを4柱に", "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=8"},
+      {"text": "第1子保育料無償化・出産祝い金の拡充", "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs5e6d6f0345a444cea77edca2395ac774?p=3"},
+      {"text": "河川改修・耐震支援で防災を強化", "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs295aa21c9d5144069f3bbe59850519a8?p=2"}
+    ]
+  },
+  {
+    "candidateId": "inatomi",
+    "pledges": [
+      {"text": "下水道使用料の一定期間の減免を検討", "sourceUrl": "https://inatomi.jp/seisaku/"},
+      {"text": "副首都・福岡で国の機能や企業を誘致", "sourceUrl": "https://inatomi.jp/seisaku/"},
+      {"text": "人への投資で子どもの学びと学び直し支援", "sourceUrl": "https://inatomi.jp/seisaku/"}
+    ]
+  },
+  {
+    "candidateId": "yoshitomi",
+    "pledges": [
+      {"text": "市の調達を地場企業優先にし所得を残す", "sourceUrl": "https://yoshitomikeiko.jp/policy"},
+      {"text": "小規模飲食店への無利子の予防融資", "sourceUrl": "https://yoshitomikeiko.jp/policy"},
+      {"text": "外国人への生活ルール説明と関係機関連携", "sourceUrl": "https://yoshitomikeiko.jp/policy"}
+    ]
+  },
+  {
+    "candidateId": "sasaki",
+    "pledges": [
+      {"text": "企業の成長を賃上げと正社員雇用につなぐ", "sourceUrl": "https://sasaki-ayano.jp/policy/economy/"},
+      {"text": "宿泊税を暮らしの混雑・ごみ対策へ活用", "sourceUrl": "https://sasaki-ayano.jp/policy/living/"},
+      {"text": "家族向けの手ごろな住宅を増やす", "sourceUrl": "https://sasaki-ayano.jp/policy/living/"}
+    ]
+  },
+  {
+    "candidateId": "shirabe",
+    "pledges": [
+      {"text": "保育・教育から放課後支援までを充実", "sourceUrl": "https://t-shirabe.net/"},
+      {"text": "創業・本社立地で産業の付加価値向上", "sourceUrl": "https://t-shirabe.net/"},
+      {"text": "企業の稼ぐ力と所得向上の好循環", "sourceUrl": "https://t-shirabe.net/"}
+    ]
+  },
+  {
+    "candidateId": "jinno",
+    "pledges": [
+      {"text": "子どもの声で学校をつくり先生の環境改善", "sourceUrl": "https://genkijinno.com/policy/genkijinno-policy-digest.pdf"},
+      {"text": "福祉の担い手支援と住み慣れた地域の暮らし", "sourceUrl": "https://genkijinno.com/policy/genkijinno-policy-digest.pdf"},
+      {"text": "創業・地場中小企業・新技術を後押し", "sourceUrl": "https://genkijinno.com/policy/genkijinno-policy-digest.pdf"}
+    ]
+  },
+  {
+    "candidateId": "inoue",
+    "pledges": [
+      {"text": "市民税を5％減税", "sourceUrl": "https://www.inoue-kiyoshi-fukuoka.com/"},
+      {"text": "市長年収を800万円にし退職金をゼロに", "sourceUrl": "https://www.inoue-kiyoshi-fukuoka.com/"},
+      {"text": "政治資金と市長・業者の関係を透明化", "sourceUrl": "https://www.inoue-kiyoshi-fukuoka.com/"}
+    ]
+  }
+]

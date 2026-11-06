@@ -58,9 +58,9 @@
   {
     "candidateId": "aramaki",
     "questionId": "q09",
-    "stance": 2,
-    "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs79ea052d371545998eb701d50bc696e8?p=4",
-    "evidence": "所得向上策に法人市民税の減税を組み込む"
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
   },
   {
     "candidateId": "aramaki",
@@ -317,9 +317,9 @@
   {
     "candidateId": "nishiwaki",
     "questionId": "q06",
-    "stance": -1,
+    "stance": 1,
     "sourceUrl": "https://note.com/nishiwaki_hk/n/n3722356cd738",
-    "evidence": "「車を敵にしない渋滞対策」を進める"
+    "evidence": "車以外を選びたくなる環境と公共交通の利便化を提案"
   },
   {
     "candidateId": "nishiwaki",
@@ -338,9 +338,9 @@
   {
     "candidateId": "nishiwaki",
     "questionId": "q09",
-    "stance": -2,
+    "stance": -1,
     "sourceUrl": "https://note.com/nishiwaki_hk/n/n3722356cd738",
-    "evidence": "「住民税5％減税のような単純な減税を主要政策」にしない"
+    "evidence": "住民税の単純減税を主要政策にしない"
   },
   {
     "candidateId": "nishiwaki",
@@ -352,9 +352,9 @@
   {
     "candidateId": "nishiwaki",
     "questionId": "q11",
-    "stance": 2,
-    "sourceUrl": "https://note.com/nishiwaki_hk/n/n3722356cd738",
-    "evidence": "中小・個人事業者のDX・省人化投資を支援"
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
   },
   {
     "candidateId": "nishiwaki",
@@ -541,9 +541,9 @@
   {
     "candidateId": "watanabe",
     "questionId": "q18",
-    "stance": 2,
+    "stance": 1,
     "sourceUrl": "https://www.asahi.com/articles/ASVC13VSQVC1TIPE010M.html",
-    "evidence": "「プロセスと政策決定をオープンな形で行う」"
+    "evidence": "政策決定過程を公開。事業費・成果の公開は不明"
   },
   {
     "candidateId": "watanabe",
@@ -653,9 +653,9 @@
   {
     "candidateId": "katayama",
     "questionId": "q14",
-    "stance": 2,
+    "stance": 1,
     "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs5e6d6f0345a444cea77edca2395ac774?p=4",
-    "evidence": "不登校支援の充実と子どもの権利保障"
+    "evidence": "不登校支援の充実。学校外の学びの場は不明"
   },
   {
     "candidateId": "katayama",
@@ -681,9 +681,9 @@
   {
     "candidateId": "katayama",
     "questionId": "q18",
-    "stance": 2,
+    "stance": 1,
     "sourceUrl": "https://katayamasumiko.com/",
-    "evidence": "政策の前提として「政治の透明性の確保」"
+    "evidence": "政治の透明性確保を主張。事業費・成果の公開は不明"
   },
   {
     "candidateId": "katayama",
@@ -744,9 +744,9 @@
   {
     "candidateId": "niimura",
     "questionId": "q07",
-    "stance": 0,
-    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=7",
-    "evidence": "「住まいの支援拡充と所得向上」、賃補助は明記せず"
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
   },
   {
     "candidateId": "niimura",
@@ -793,9 +793,9 @@
   {
     "candidateId": "niimura",
     "questionId": "q14",
-    "stance": 2,
+    "stance": 1,
     "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs5e6d6f0345a444cea77edca2395ac774?p=4",
-    "evidence": "不登校児童生徒への丁寧なケアを実施"
+    "evidence": "不登校児童生徒へのケア。校外の学びの場は不明"
   },
   {
     "candidateId": "niimura",
@@ -912,9 +912,9 @@
   {
     "candidateId": "abe",
     "questionId": "q11",
-    "stance": 2,
+    "stance": 1,
     "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs2db9bc4211ea445aacdeb29efc5b0aaa?p=4",
-    "evidence": "企業誘致や地場企業支援で地域経済を活性化"
+    "evidence": "地場企業支援を提案。賃上げ・生産性向上は不明"
   },
   {
     "candidateId": "abe",
@@ -947,7 +947,7 @@
   {
     "candidateId": "abe",
     "questionId": "q16",
-    "stance": 2,
+    "stance": 1,
     "sourceUrl": "https://www.city.fukuoka.lg.jp/senkan/senkyo/shisei/senkyotokusetu/shicho/documents/R8kouhou.pdf",
     "evidence": "外国人に生活ルール教育。受入企業・学校に条例で説明責任"
   },
@@ -1087,7 +1087,7 @@
   {
     "candidateId": "inatomi",
     "questionId": "q16",
-    "stance": 2,
+    "stance": 1,
     "sourceUrl": "https://inatomi.jp/seisaku/",
     "evidence": "外国人住民向けの生活案内とルール周知を充実"
   },
@@ -1192,9 +1192,9 @@
   {
     "candidateId": "yoshitomi",
     "questionId": "q11",
-    "stance": 1,
-    "sourceUrl": "https://yoshitomikeiko.jp/policy",
-    "evidence": "地元調達・承継・融資支援。賃上げ・生産性は不明"
+    "stance": null,
+    "sourceUrl": null,
+    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
   },
   {
     "candidateId": "yoshitomi",
@@ -1353,9 +1353,9 @@
   {
     "candidateId": "sasaki",
     "questionId": "q14",
-    "stance": 2,
+    "stance": 1,
     "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs5e6d6f0345a444cea77edca2395ac774?p=4",
-    "evidence": "不登校児童への伴走支援を実施"
+    "evidence": "不登校児童への伴走支援。校外の学びの場は不明"
   },
   {
     "candidateId": "sasaki",
@@ -1633,9 +1633,9 @@
   {
     "candidateId": "jinno",
     "questionId": "q14",
-    "stance": null,
-    "sourceUrl": null,
-    "evidence": "今回確認した公開資料で、明確な賛否を確認できず"
+    "stance": 2,
+    "sourceUrl": "https://mirai-gikai-fukuoka-city-web-6wib.vercel.app/election/2026/debates/rehacq-kyushu-20261028?candidate=jinno-genki",
+    "evidence": "学校以外のオルタナティブな選択肢を用意すると回答"
   },
   {
     "candidateId": "jinno",
@@ -1754,7 +1754,7 @@
     "questionId": "q11",
     "stance": 1,
     "sourceUrl": "https://www.inoue-kiyoshi-fukuoka.com/",
-    "evidence": "事業者の税負担を軽くし商売しやすい都市へ"
+    "evidence": "創業・事業者の税負担軽減。賃上げ・生産性は不明"
   },
   {
     "candidateId": "inoue",
@@ -1801,9 +1801,9 @@
   {
     "candidateId": "inoue",
     "questionId": "q18",
-    "stance": 2,
+    "stance": 1,
     "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/politics/fs79ea052d371545998eb701d50bc696e8?p=4",
-    "evidence": "政治資金と市長・幹部・業者の関係を徹底公開"
+    "evidence": "政治資金等の透明化。事業費・成果の公開は不明"
   },
   {
     "candidateId": "inoue",

@@ -22,6 +22,9 @@ export function loadData() {
     candidates: read("candidates.json"),
     positions: read("positions.json"),
     source,
+    ...(fs.existsSync(path.join(root, source, "pledges.json"))
+      ? { pledges: read("pledges.json") }
+      : {}),
   };
   const fail = (message) => {
     throw new Error(`${source}: ${message}`);
@@ -53,6 +56,25 @@ export function loadData() {
     if (position.sourceUrl === null) position.sourceUrl = "";
     if (typeof position.sourceUrl !== "string")
       fail(`sourceUrl must be a string or null at ${pair}`);
+  }
+  if (data.pledges) {
+    if (!Array.isArray(data.pledges)) fail("pledges.json must be an array");
+    const pledgeCandidateIds = new Set(data.pledges.map((item) => item.candidateId));
+    if (pledgeCandidateIds.size !== 13) fail("13 pledge entries required");
+    for (const candidate of data.candidates) {
+      const entry = data.pledges.find((item) => item.candidateId === candidate.id);
+      if (!entry) fail(`Missing pledges for ${candidate.id}`);
+      if (!Array.isArray(entry.pledges) || entry.pledges.length > 3)
+        fail(`0–3 pledges required for ${candidate.id}`);
+      for (const pledge of entry.pledges) {
+        if (typeof pledge.text !== "string" || !pledge.text.trim())
+          fail(`Pledge text required for ${candidate.id}`);
+        if (Array.from(pledge.text).length > 40)
+          fail(`Pledge text exceeds 40 characters for ${candidate.id}`);
+        try { new URL(pledge.sourceUrl); }
+        catch { fail(`Valid sourceUrl required for ${candidate.id}`); }
+      }
+    }
   }
   return data;
 }

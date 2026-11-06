@@ -2,6 +2,8 @@ import { describe, expect, it } from "vitest";
 import { electionData } from "../lib/generated-data";
 import { calculateResults } from "../lib/scoring";
 import type { Answers } from "../lib/types";
+import pledgeData from "../data/pledges.json";
+import type { CandidatePledges } from "../lib/types";
 
 /**
  * Regression test for EVERY real candidate. If candidates have identical known
@@ -41,5 +43,38 @@ describe.each(electionData.candidates)("candidate $id: identical answer regressi
       results[0].candidate.id === candidate.id || (results[0].tied && tiedLeaders.some((result) => result.candidate.id === candidate.id)),
       `${candidate.name} failed: score=${tiedLeaders.find((result) => result.candidate.id === candidate.id)?.score}; best=${best}; known stances=${knownPositions.length}. Identical candidates: ${identical.map((result) => result.candidate.name).join(", ")}`,
     ).toBe(true);
+  });
+});
+
+describe("重点公約", () => {
+  const entries = pledgeData as CandidatePledges[];
+
+  it("13人全員に届出順のエントリがある", () => {
+    expect(entries.map((entry) => entry.candidateId)).toEqual(
+      electionData.candidates.map((candidate) => candidate.id),
+    );
+    expect(new Set(entries.map((entry) => entry.candidateId)).size).toBe(13);
+  });
+
+  it("各公約は1〜3件、40字以内で、本文と出典URLを持つ", () => {
+    for (const entry of entries) {
+      expect(entry.pledges.length).toBeGreaterThan(0);
+      expect(entry.pledges.length).toBeLessThanOrEqual(3);
+      for (const pledge of entry.pledges) {
+        expect(pledge.text.trim().length).toBeGreaterThan(0);
+        expect([...pledge.text].length).toBeLessThanOrEqual(40);
+        const source = new URL(pledge.sourceUrl);
+        expect(source.protocol).toBe("https:");
+        expect(source.hostname.length).toBeGreaterThan(0);
+      }
+    }
+  });
+
+  it("同じ候補者の公約が重複しない", () => {
+    for (const entry of entries) {
+      expect(new Set(entry.pledges.map((pledge) => pledge.text)).size).toBe(
+        entry.pledges.length,
+      );
+    }
   });
 });

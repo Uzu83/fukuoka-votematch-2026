@@ -24,10 +24,16 @@ export type Position = {
   evidence: string;
 };
 
+export type CandidatePledges = {
+  candidateId: string;
+  pledges: { text: string; sourceUrl: string }[];
+};
+
 export type ElectionData = {
   questions: Question[];
   candidates: Candidate[];
   positions: Position[];
+  pledges?: CandidatePledges[];
   source: "fixtures" | "data";
 };
 
