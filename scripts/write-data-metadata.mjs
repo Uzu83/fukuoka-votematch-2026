@@ -7,6 +7,7 @@ if (source === "data") {
   for (const [from, to] of [
     ["data/SOURCES.md", "public/SOURCES.md"],
     ["data/COVERAGE.md", "public/COVERAGE.md"],
+    ["data/REVIEW_NOTES.md", "public/REVIEW_NOTES.md"],
     ["data/METHODOLOGY.md", "public/METHODOLOGY.md"],
   ]) {
     if (fs.existsSync(from)) fs.copyFileSync(from, to);

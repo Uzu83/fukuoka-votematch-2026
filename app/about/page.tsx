@@ -42,6 +42,7 @@ export default function AboutPage() {
           <li><a href="/SOURCES.md">データの出典一覧（Markdown）</a></li>
           <li><a href="/METHODOLOGY.md">データ作成の基準（Markdown）</a></li>
           <li><a href="/COVERAGE.md">候補者・質問ごとのカバレッジ</a></li>
+          <li><a href="/REVIEW_NOTES.md">全セルのレビュー記録・データの残課題</a></li>
           <li><a href={`${repo}/tree/main/data`} target="_blank" rel="noopener noreferrer">質問・候補者・立場の生データ（JSON）</a></li>
         </ul>
       ) : <p><strong>現在は開発用の架空データで動作しています。実際の選挙情報ではありません。</strong></p>}

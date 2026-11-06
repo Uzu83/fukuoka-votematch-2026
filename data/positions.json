@@ -730,7 +730,7 @@
   {
     "candidateId": "niimura",
     "questionId": "q05",
-    "stance": 2,
+    "stance": 1,
     "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3054260?page=7",
     "evidence": "「貝塚線直通と延伸は任期中に決断」"
   },
@@ -947,9 +947,9 @@
   {
     "candidateId": "abe",
     "questionId": "q16",
-    "stance": 1,
+    "stance": 2,
     "sourceUrl": "https://www.city.fukuoka.lg.jp/senkan/senkyo/shisei/senkyotokusetu/shicho/documents/R8kouhou.pdf",
-    "evidence": "受入企業・学校への生活ルール教育を条例で求める"
+    "evidence": "外国人に生活ルール教育。受入企業・学校に条例で説明責任"
   },
   {
     "candidateId": "abe",
