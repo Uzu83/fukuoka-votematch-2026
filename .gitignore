@@ -9,6 +9,5 @@ playwright-report/
 *.tsbuildinfo
 .env*
 lib/generated-data.ts
-public/build-info.json
 
 research/

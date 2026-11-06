@@ -13,7 +13,3 @@ if (source === "data") {
   }
 }
 
-fs.writeFileSync(
-  path.join(process.cwd(), "public", "build-info.json"),
-  JSON.stringify({ dataSource: source }) + "\n",
-);
