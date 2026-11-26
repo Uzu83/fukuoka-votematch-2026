@@ -1,5 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import type { ReactNode } from "react";
+import { Analytics } from "@vercel/analytics/next";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 import { electionData } from "@/lib/generated-data";
 import { SampleDataNotice } from "./components/SampleDataNotice";
 import { SiteHeader, SiteFooter } from "./components/SiteHeader";
@@ -35,6 +37,8 @@ export default function RootLayout({ children }: Readonly<{ children: ReactNode 
         {electionData.source === "fixtures" ? <SampleDataNotice /> : null}
         <main id="main">{children}</main>
         <SiteFooter />
+        <Analytics />
+        <SpeedInsights />
       </body>
     </html>
   );

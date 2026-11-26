@@ -71,7 +71,7 @@ export function MatchQuiz() {
           市政の論点について、賛成から反対まで5段階で答えます。特に大切にしたい問題は「重視する」を選ぶと2倍の重みになります。わからない質問は飛ばせます。
         </p>
         <div className="mx-auto mt-5 max-w-lg rounded-xl bg-[#f1f6f3] p-4 text-left text-sm">
-          <p><strong className="text-[#005f61]">プライバシー：</strong>回答はこのブラウザ内だけで計算します。サーバーへの送信、Cookie、保存、外部のアクセス解析はありません。ページを更新すると回答は消えます。</p>
+          <p><strong className="text-[#005f61]">プライバシー：</strong>回答はこのブラウザ内だけで計算します。回答の送信、Cookie、保存はありません。ページを更新すると回答は消えます。匿名のアクセス集計を行います。</p>
         </div>
         <button type="button" className="primary-button mt-7 min-w-64 text-lg" onClick={start}>
           はじめる <span aria-hidden="true">→</span>
